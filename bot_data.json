@@ -1,0 +1,69 @@
+{
+  "verified": [
+    7248702461,
+    6284478376,
+    5279448471,
+    6686102681
+  ],
+  "admin_ids": [
+    6761125512,
+    7248702461,
+    5279448471
+  ],
+  "keys": {
+    "ff_ios_3_1 Year": [],
+    "ff_ios_2_31 Day": []
+  },
+  "res_keys": {},
+  "files": {
+    "file_ff_ios_1": [
+      {
+        "type": "link",
+        "value": "https://api.moniteauth.com/telegram/download/67c46ebc6ad4a2597ee9c3d94047a8d739e8dfa2",
+        "name": "https://api.moniteauth.com/telegram/download/67c46ebc6ad4a2597ee9c3d94047a8d739e"
+      }
+    ]
+  },
+  "balances": {
+    "8503115617": 965.0,
+    "5279448471": 0.0,
+    "6686102681": 78.0
+  },
+  "pending_orders": {
+    "35aed0ba": {
+      "user_id": 8503115617,
+      "k": "ff_ios",
+      "i": 3,
+      "dur": "1 Year",
+      "price": "12.00",
+      "method": "bnb"
+    }
+  },
+  "_state": {},
+  "config": {
+    "support": "@diyzu_fov",
+    "binance_id": "865770026"
+  },
+  "resellers": {
+    "Bhavis": {
+      "pass": "35",
+      "balance": 1000.0
+    },
+    "ayush": {
+      "pass": "1234",
+      "balance": 0.0
+    },
+    "bhavisss": {
+      "pass": "88",
+      "balance": 0.0
+    },
+    "vescot": {
+      "pass": "35",
+      "balance": 0.0
+    }
+  },
+  "reseller_sessions": {},
+  "key_view_admins": [
+    6761125512
+  ]
+}
